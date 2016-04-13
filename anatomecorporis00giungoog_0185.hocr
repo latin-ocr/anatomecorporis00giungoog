@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./anatomecorporis00giungoog_0185.png"; bbox 0 0 4775 7025; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2023 2623 2037 2633">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2023 2623 2037 2633">
+     <span class='ocr_line' id='line_1_1' title="bbox 2023 2623 2037 2633; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 2023 2623 2037 2633; x_wconf 68' lang='grc' dir='ltr'><strong><em>Δ</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1799 2737 2332 2866">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1799 2737 2332 2866">
+     <span class='ocr_line' id='line_1_2' title="bbox 2253 2806 2332 2866; textangle 270"><span class='ocrx_word' id='word_1_2' title='bbox 2253 2806 2332 2866; x_wconf 67' lang='grc' dir='ltr'><em>Ξ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 2144 2766 2240 2863; textangle 270"><span class='ocrx_word' id='word_1_3' title='bbox 2144 2766 2240 2863; x_wconf 48' lang='grc' dir='ltr'><strong><em>μζ</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 2054 2803 2125 2861; textangle 270"><span class='ocrx_word' id='word_1_4' title='bbox 2054 2803 2125 2861; x_wconf 61' lang='lat' dir='ltr'><strong><em>nd«</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1958 2802 2017 2861; textangle 270"><span class='ocrx_word' id='word_1_5' title='bbox 1958 2802 2017 2861; x_wconf 61' lang='lat' dir='ltr'><strong><em>OQ</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 1886 2801 1916 2859; textangle 270"><span class='ocrx_word' id='word_1_6' title='bbox 1886 2801 1916 2859; x_wconf 69' lang='grc' dir='ltr'><strong><em>ι-ι</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 1799 2737 1862 2860; textangle 270"><span class='ocrx_word' id='word_1_7' title='bbox 1799 2737 1862 2860; x_wconf 52' lang='grc' dir='ltr'><strong><em>ἰν-Ἰ</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 561 6727 839 6771">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 561 6727 839 6771">
+     <span class='ocr_line' id='line_1_8' title="bbox 561 6727 839 6771; baseline -0.004 0"><span class='ocrx_word' id='word_1_8' title='bbox 561 6750 567 6753; x_wconf 53' lang='grc'>&lt;</span> <span class='ocrx_word' id='word_1_9' title='bbox 585 6727 839 6771; x_wconf 51' lang='lat' dir='ltr'><strong><em>«amalfa,</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 80 2523 2827 6818">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 80 2523 2827 6818">
+     <span class='ocr_line' id='line_1_9' title="bbox 80 2523 2827 6818; textangle 270"><span class='ocrx_word' id='word_1_10' title='bbox 80 2523 2827 6818; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
